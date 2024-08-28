@@ -7,8 +7,7 @@ public class SmallParkingSpot extends ParkingSpot {
     }
 
     @Override
-    public double getHourlyParkingRate() { // TODO: change double to Money class
+    public double getHourlyParkingRate() {
         return 1;
     }
-
 }
