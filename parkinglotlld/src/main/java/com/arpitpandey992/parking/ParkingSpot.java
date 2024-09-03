@@ -1,5 +1,6 @@
-package com.arpitpandey992;
+package com.arpitpandey992.parking;
 
+import com.arpitpandey992.Location;
 import com.arpitpandey992.exceptions.ParkingSpotFreeException;
 import com.arpitpandey992.exceptions.ParkingSpotOccupiedException;
 import com.arpitpandey992.types.ParkingStatus;

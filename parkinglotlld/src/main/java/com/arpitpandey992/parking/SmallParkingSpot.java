@@ -1,4 +1,6 @@
-package com.arpitpandey992;
+package com.arpitpandey992.parking;
+
+import com.arpitpandey992.Location;
 
 public class SmallParkingSpot extends ParkingSpot {
 
